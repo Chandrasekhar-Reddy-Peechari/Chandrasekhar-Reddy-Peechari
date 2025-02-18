@@ -17,7 +17,4 @@ You can connect with me via csengineer1@outlook.com
 My pronouns are he/him. I’m committed to fostering an inclusive and supportive community.
 
 ⚡ Fun fact:
-Outside of tech, I’m passionate about participating in webinars related to technology. I believe a little creativity outside work helps me stay inspired and continue innovating.
-Chandrasekhar-Reddy-Peechari/Chandrasekhar-Reddy-Peechari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Outside of tech, I’m passionate about hiking, swimming. I believe a little creativity outside work helps me stay inspired and continue innovating.
